@@ -1,0 +1,47 @@
+//Primeira forma
+    red, blue, green
+
+//Segunda forma
+Hexadecimal 0123456789ABCDF
+RGB = Red Green Blue
+RGB = _ _ _ _ _ _
+0 = ausencia
+F = maximo
+#FFFFFF = branco
+#000000 = preto
+#FF0000
+#00FF00
+#0000FF
+#CCCCCC = cinza
+
+//Terceira forma RGB (0 até 255)
+0 = ausencia
+255 = maximo
+
+rgb(0,0,0) = preto
+rgb(255,255,255) = branco
+rgb(255,0,0)
+rgb(0,255,0)
+rgb(0,0,255)
+
+
+/Primeira 
+    nome tag
+    h1 {
+        propriedades
+    }
+
+//Segunda id
+    <h1 id="segundotitulo">    </h1>
+
+    #segundotitulo {
+        propriedades
+    }
+
+//Terceira class
+
+<p class="teste">  </p>
+
+.teste {
+    propriedades
+}
